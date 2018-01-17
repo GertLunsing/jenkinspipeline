@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:GertLunsing/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:GertLunsing/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:GertLunsing/jenkinspipeline.git</connection>
+    <developerConnection>scm:git:git@github.com:GertLunsing/jenkinspipeline.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/GertLunsing/maven-project</url>
+    <url>http://github.com/GertLunsing/jenkinspipeline</url>
   </scm>
 
   <prerequisites>
